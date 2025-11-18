@@ -1,23 +1,16 @@
 ---
 layout: posts
-title: Test Post
+title: first Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
 
-[my favorite website](http://www.google.com)
+[my favorite website](https://www.musicca.com/lessons)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+In this website you can play music by using your keyboard.
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/sitepicture.jpg "Site Picture")
 
 ---
-**Test**: This is atest
+
