@@ -8,7 +8,7 @@ title: INCREDIBLE websites
 
 In this website you can play music by using INcredibox characters but this is a demo version!
 
-![alt text](../assets/images/sitepicture.jpg "Site Picture")
+![alt text](../assets/images/wekidi.jpg "Site Picture")
 
 ---
 
