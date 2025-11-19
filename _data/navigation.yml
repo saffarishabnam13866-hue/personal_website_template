@@ -1,8 +1,6 @@
 # main links
 main:
 
-  - title: "Courses"
-    url: /courses/
   - title: "Links"
     url: /links/
   - title: "Hobbies"
