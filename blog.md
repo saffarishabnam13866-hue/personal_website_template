@@ -6,5 +6,4 @@ title: Blog Posts
 tags: [blog]
 modified: 3-10-2019
 comments: true
-
 ---
