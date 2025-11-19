@@ -1,23 +1,13 @@
 ---
 layout: posts
-title: INCREDIBLE websites
+title: poetic websites
 ---
 
 
-[my favorite website](https://www.incredibox.com/demo/)
+[my favorite website](https://ganjoor.net/)
 
-In this website you can play music by using INcredibox characters but this is a demo version!
+In this website you can read the beautiful persian poems!
 
-![alt text](../assets/images/wekidi.jpg "Site Picture")
-
----
-
-[chill earth](https://www.earthspacelab.com/app/seasons/)
- 
-Through this, you can see how is our beloved planet doing.
-
-![alt text](../assets/images/earth.jpg "Site Picture")
-
-
+![alt text](../assets/images/poem.PNG "Site Picture")
 
 ---
